@@ -138,7 +138,7 @@ The application is deployed on **Streamlit Community Cloud**.
 
 **Live Demo**
 
-https://your-streamlit-app.streamlit.app/
+https://telco-customer-churn-prediction-4k3aflhwyh5qqn8cekihcy.streamlit.app/
 
 ---
 

@@ -4,7 +4,7 @@ Experience the House Price Prediction web application here:
 
 ### 🌐 Streamlit Application
 
-https://house-price-prediction-f6jaaevm7utthtkpecqzfy.streamlit.app/
+https://telco-customer-churn-prediction-4k3aflhwyh5qqn8cekihcy.streamlit.app/
 
 ### 📂 GitHub Repository
 
