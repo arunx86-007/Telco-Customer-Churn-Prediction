@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-This project predicts whether a telecom customer is likely to churn based on customer demographics, account information, and subscribed services. It follows a complete end-to-end machine learning workflow, including data preprocessing, exploratory data analysis, handling imbalanced data, model building, hyperparameter tuning, and deployment using **Streamlit Community Cloud**.
+This project predicts whether a telecom customer is likely to churn based on customer demographics, account information, and subscribed services. It follows a complete end-to-end machine learning workflow, including data preprocessing, exploratory data analysis, handling imbalanced data, model building, hyperparameter tuning, and deployment using **Streamlit Cloud**.
 
 ---
 
@@ -53,7 +53,7 @@ The dataset contains customer demographic information, account details, subscrib
 - Imbalanced-learn
 - Joblib
 - Streamlit
-- Streamlit Community Cloud
+- Streamlit Cloud
 
 ---
 
@@ -69,7 +69,7 @@ The dataset contains customer demographic information, account details, subscrib
 - Hyperparameter Tuning
 - Model Evaluation
 - Streamlit Web Application
-- Deployment on Streamlit Community Cloud
+- Deployment on Streamlit Cloud
 
 ---
 
@@ -134,7 +134,7 @@ An interactive web application was developed using **Streamlit**, allowing users
 
 ## 🌐 Live Demo
 
-The application is deployed on **Streamlit Community Cloud**.
+The application is deployed on **Streamlit Cloud**.
 
 **Live Demo**
 
@@ -180,3 +180,5 @@ The dataset is already included in the **`data/`** directory. No additional down
 ## 👨‍💻 Author
 
 **Arun Singh**
+
+
